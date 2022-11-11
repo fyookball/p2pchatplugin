@@ -1,0 +1,11 @@
+{
+    "display_name": "p2p-chat-plugin",
+    "version": "1.0",
+    "description": "Proof of concept peer to peer chat",
+    "project_url": "https://electroncash.org/",
+    "minimum_ec_version": "3.2",
+    "package_name": "p2p-chat-plugin",
+    "available_for": [
+        "qt"
+    ]
+}
